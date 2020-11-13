@@ -1,0 +1,25 @@
+{
+  "name": "semantic-ui-react-forked",
+  "version": "0.0.2",
+  "description": "A template for Semantic UI React issues",
+  "keywords": [
+    "semantic-ui",
+    "semantic-ui-react"
+  ],
+  "homepage": "https://codesandbox.io/s/2l3n74j9y",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0",
+    "semantic-ui-react": "latest"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
